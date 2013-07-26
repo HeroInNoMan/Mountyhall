@@ -7,9 +7,6 @@
 ################################################################
 # TODO list
 #
-# bug : les messages all et perso doivent tous être remis lors d’une
-# connexion (actuellement on arrête le traitement après le premier
-# nick cible trouvé).
 # feature : ajouter l’heure du message (et la date si jour ≠)
 ################################################################
 
